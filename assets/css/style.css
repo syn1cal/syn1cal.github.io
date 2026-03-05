@@ -1,1 +1,4 @@
-@import "Architect"
+---
+---
+
+@import "{{ site.theme }}";
